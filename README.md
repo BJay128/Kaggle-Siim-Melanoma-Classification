@@ -1,2 +1,2 @@
-# Kaggle-Siim-Melanoma-Classification
+# SIIM-ISIC-Melanoma-Classification
 Image classification challenge hosted by Kaggle.
